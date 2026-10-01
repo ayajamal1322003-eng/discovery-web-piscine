@@ -1,0 +1,5 @@
+commit 68b5c92593c530ed8af7bb5f0312becdc6456d38
+Author: ayajamal1322003-eng <aya.jamal.1322003@gmail.com>
+Date:   Thu Oct 1 14:13:18 2026 +0300
+
+    Add hello.txt

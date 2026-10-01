@@ -1,0 +1,12 @@
+#Standard Git Edit-Add-Commit-Push Workflow
+Modify or create working files:
+echo "Update details" >> README.md
+
+Stage changed files for commit:
+git add README.md
+
+Create a descriptive snapshot commit:
+git commit -m "docs: expand README details"
+
+Push committed changes to remote repository:
+git push origin main
