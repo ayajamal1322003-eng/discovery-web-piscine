@@ -1,0 +1,40 @@
+.:
+total 4
+drwxr-xr-x  5 aabu-zah _amman   51 Oct  1 11:43 .
+drwx------ 17 aabu-zah _amman 4096 Oct  1 11:43 ..
+drwxr-xr-x  2 aabu-zah _amman    6 Oct  1 11:16 archives
+drwxr-xr-x  3 aabu-zah _amman   17 Oct  1 11:25 projects
+drwxr-xr-x  2 aabu-zah _amman    6 Oct  1 11:16 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:16 .
+drwxr-xr-x 5 aabu-zah _amman 51 Oct  1 11:43 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 aabu-zah _amman 17 Oct  1 11:25 .
+drwxr-xr-x 5 aabu-zah _amman 51 Oct  1 11:43 ..
+drwxr-xr-x 4 aabu-zah _amman 37 Oct  1 11:25 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 aabu-zah _amman 37 Oct  1 11:25 .
+drwxr-xr-x 3 aabu-zah _amman 17 Oct  1 11:25 ..
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:25 backend
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:25 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:25 .
+drwxr-xr-x 4 aabu-zah _amman 37 Oct  1 11:25 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:25 .
+drwxr-xr-x 4 aabu-zah _amman 37 Oct  1 11:25 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 aabu-zah _amman  6 Oct  1 11:16 .
+drwxr-xr-x 5 aabu-zah _amman 51 Oct  1 11:43 ..
